@@ -80,6 +80,12 @@ ATARI_ENVS = [
     AtariSpec("atari_wizardofwor", "WizardOfWorNoFrameskip-v4"),
     AtariSpec("atari_yarsrevenge", "YarsRevengeNoFrameskip-v4"),
     AtariSpec("atari_zaxxon", "ZaxxonNoFrameskip-v4"),
+    AtariSpec("atari_adventure", "AdventureNoFrameskip-v4"), # New
+    AtariSpec("atari_airraid", "AirRaidNoFrameskip-v4"), # New
+    AtariSpec("atari_carnival", "CarnivalNoFrameskip-v4"), # New
+    AtariSpec("atari_elevatoraction", "ElevatorActionNoFrameskip-v4"), # New
+    AtariSpec("atari_journeyescape", "JourneyEscapeNoFrameskip-v4"), # New
+    AtariSpec("atari_pooyan", "PooyanNoFrameskip-v4"), # New
 ]
 
 
